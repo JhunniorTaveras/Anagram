@@ -1,0 +1,16 @@
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\Problema22.exe
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\Problema22.deps.json
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\Problema22.runtimeconfig.json
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\Problema22.runtimeconfig.dev.json
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\Problema22.dll
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\ref\Problema22.dll
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\bin\Debug\net5.0\Problema22.pdb
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.csproj.AssemblyReference.cache
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.AssemblyInfoInputs.cache
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.AssemblyInfo.cs
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.csproj.CoreCompileInputs.cache
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.dll
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\ref\Problema22.dll
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.pdb
+C:\Users\jtave\OneDrive\Desktop\Tonterias\Problema22\obj\Debug\net5.0\Problema22.genruntimeconfig.cache
